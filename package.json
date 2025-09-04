@@ -1,0 +1,22 @@
+{
+  "name": "ahavatfit",
+  "version": "1.0.0",
+  "description": "A fitness application for Muslim women.",
+  "private": true,
+  "scripts": {
+    "start": "serve dist",
+    "build": "rm -rf dist && mkdir dist && esbuild index.tsx --bundle --outfile=dist/index.js --minify && cp index.html index.css cookbook.json workouts.json dist/",
+    "deploy": "npm run build && firebase deploy --only hosting"
+  },
+  "dependencies": {
+    "@google/genai": "^0.14.0",
+    "markdown-it": "^14.1.0"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "^14.1.1",
+    "esbuild": "^0.23.0",
+    "serve": "^14.2.3",
+    "typescript": "^5.5.3",
+    "firebase-tools": "^13.13.2"
+  }
+}

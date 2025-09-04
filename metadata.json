@@ -1,0 +1,8 @@
+{
+  "name": "AhavatFit",
+  "description": "A fitness application for Muslim women.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}

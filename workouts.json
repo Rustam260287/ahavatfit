@@ -1,0 +1,39 @@
+
+[
+  {
+    "title": "Комплексная тренировка на все тело",
+    "category": "Силовая",
+    "description": "25-минутная тренировка для начинающих, направленная на укрепление основных групп мышц. Не требует специального оборудования.",
+    "duration": 25,
+    "calories": 180,
+    "videoUrl": "https://www.youtube.com/watch?v=g_tea8ZN-mQ",
+    "alternativeVideoUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+  },
+  {
+    "title": "Утренняя йога и растяжка",
+    "category": "Растяжка",
+    "description": "Начните свой день с бодрости! Эта 15-минутная практика поможет разбудить тело, улучшить гибкость и настроиться на продуктивный день.",
+    "duration": 15,
+    "calories": 70,
+    "videoUrl": "https://www.youtube.com/watch?v=4C-gxOE0j7s",
+    "alternativeVideoUrl": ""
+  },
+  {
+    "title": "Интенсивное кардио для сжигания жира",
+    "category": "Кардио",
+    "description": "30-минутная высокоинтенсивная интервальная тренировка (HIIT) для максимального сжигания калорий и улучшения выносливости. Приготовьтесь попотеть!",
+    "duration": 30,
+    "calories": 350,
+    "videoUrl": "https://www.youtube.com/watch?v=jpizoUy4K9s",
+    "alternativeVideoUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+  },
+  {
+    "title": "Вечернее расслабление и дыхание",
+    "category": "Дыхание",
+    "description": "10-минутная сессия для снятия стресса после тяжелого дня. Глубокое дыхание и медитативные техники помогут вам успокоить ум и подготовиться ко сну.",
+    "duration": 10,
+    "calories": 30,
+    "videoUrl": "https://www.youtube.com/watch?v=aXIt_1aa1JU",
+    "alternativeVideoUrl": ""
+  }
+]
