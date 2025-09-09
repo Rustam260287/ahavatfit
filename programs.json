@@ -1,0 +1,92 @@
+[
+  {
+    "id": "beginner-strength-4w",
+    "title": "Основы силы: 4 недели",
+    "duration": 4,
+    "description": "Идеальная программа для начинающих, чтобы построить базовую силу, улучшить технику и заложить фундамент для дальнейшего прогресса. Фокус на упражнениях с собственным весом.",
+    "schedule": [
+      {
+        "week": 1,
+        "days": [
+          { "day": 1, "workoutId": 0 },
+          { "day": 3, "workoutId": 0 },
+          { "day": 5, "workoutId": 1 }
+        ]
+      },
+      {
+        "week": 2,
+        "days": [
+          { "day": 1, "workoutId": 0 },
+          { "day": 3, "workoutId": 2 },
+          { "day": 5, "workoutId": 0 }
+        ]
+      },
+      {
+        "week": 3,
+        "days": [
+          { "day": 1, "workoutId": 2 },
+          { "day": 3, "workoutId": 0 },
+          { "day": 5, "workoutId": 1 }
+        ]
+      },
+      {
+        "week": 4,
+        "days": [
+          { "day": 1, "workoutId": 0 },
+          { "day": 3, "workoutId": 2 },
+          { "day": 5, "workoutId": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gentle-start-2w",
+    "title": "Мягкое начало: 2 недели",
+    "duration": 2,
+    "description": "Программа для тех, кто возвращается к активности после долгого перерыва или хочет начать с минимальной нагрузки. Сочетание легкой растяжки и дыхательных практик.",
+    "schedule": [
+      {
+        "week": 1,
+        "days": [
+          { "day": 2, "workoutId": 1 },
+          { "day": 4, "workoutId": 3 },
+          { "day": 6, "workoutId": 1 }
+        ]
+      },
+      {
+        "week": 2,
+        "days": [
+          { "day": 2, "workoutId": 1 },
+          { "day": 4, "workoutId": 3 },
+          { "day": 6, "workoutId": 3 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "postpartum-recovery-6w",
+    "title": "Восстановление после родов",
+    "duration": 6,
+    "description": "Бережная 6-недельная программа для восстановления после родов. Фокус на укреплении мышц тазового дна и кора. (Проконсультируйтесь с врачом перед началом).",
+    "schedule": [
+      {
+        "week": 1, "days": [ { "day": 2, "workoutId": 3 }, { "day": 5, "workoutId": 3 } ]
+      },
+      {
+        "week": 2, "days": [ { "day": 2, "workoutId": 1 }, { "day": 5, "workoutId": 3 } ]
+      },
+      {
+        "week": 3, "days": [ { "day": 1, "workoutId": 1 }, { "day": 3, "workoutId": 3 }, { "day": 5, "workoutId": 1 } ]
+      },
+      {
+        "week": 4, "days": [ { "day": 1, "workoutId": 1 }, { "day": 3, "workoutId": 0 }, { "day": 5, "workoutId": 3 } ]
+      },
+      {
+        "week": 5, "days": [ { "day": 1, "workoutId": 0 }, { "day": 3, "workoutId": 1 }, { "day": 5, "workoutId": 0 } ]
+      },
+      {
+        "week": 6, "days": [ { "day": 1, "workoutId": 0 }, { "day": 3, "workoutId": 2 }, { "day": 5, "workoutId": 1 } ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Дыхание Благодарности",
+    "description": "Успокойте ум и наполните сердце благодарностью.",
+    "duration": 5,
+    "icon": "fas fa-leaf",
+    "audioUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+  },
+  {
+    "id": 2,
+    "title": "Утренний Зикр",
+    "description": "Начните день с поминания Всевышнего.",
+    "duration": 7,
+    "icon": "fas fa-moon",
+    "audioUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+  },
+  {
+    "id": 3,
+    "title": "Сканирование Тела",
+    "description": "Практика для снятия напряжения перед сном.",
+    "duration": 10,
+    "icon": "fas fa-bed",
+    "audioUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+  },
+  {
+    "id": 4,
+    "title": "Отпускание Тревоги",
+    "description": "Сессия для моментов стресса и беспокойства.",
+    "duration": 8,
+    "icon": "fas fa-dove",
+    "audioUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+  }
+]

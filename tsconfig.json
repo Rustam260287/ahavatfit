@@ -10,5 +10,5 @@
     "forceConsistentCasingInFileNames": true,
     "allowJs": true
   },
-  "include": ["index.tsx"]
+  "include": ["index.tsx", "api.ts"]
 }

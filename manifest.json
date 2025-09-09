@@ -1,0 +1,22 @@
+{
+  "name": "AhavatFit - Фитнес для мусульманских женщин",
+  "short_name": "AhavatFit",
+  "description": "A fitness application for Muslim women, designed to support physical and spiritual well-being.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6F2",
+  "theme_color": "#D4A5A5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

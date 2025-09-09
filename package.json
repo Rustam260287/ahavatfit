@@ -5,11 +5,11 @@
   "private": true,
   "scripts": {
     "start": "serve dist",
-    "build": "rm -rf dist && mkdir dist && esbuild index.tsx --bundle --outfile=dist/index.js --minify && cp index.html index.css cookbook.json workouts.json dist/",
+    "build": "rm -rf dist && mkdir -p dist/images && esbuild index.tsx --bundle --outfile=dist/index.js --minify && cp index.html index.css cookbook.json workouts.json manifest.json sw.js dist/ && cp images/*.png dist/images/",
     "deploy": "npm run build && firebase deploy --only hosting"
   },
   "dependencies": {
-    "@google/genai": "^0.14.0",
+    "@google/genai": "^1.16.0",
     "markdown-it": "^14.1.0"
   },
   "devDependencies": {
